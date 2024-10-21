@@ -1,2 +1,1 @@
-# online_store
-online_store_apis
+# online_store development
